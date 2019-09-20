@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\bin\Debug\netcoreapp2.1\laba2_5.deps.json
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\bin\Debug\netcoreapp2.1\laba2_5.runtimeconfig.json
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\bin\Debug\netcoreapp2.1\laba2_5.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\bin\Debug\netcoreapp2.1\laba2_5.dll
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\bin\Debug\netcoreapp2.1\laba2_5.pdb
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\obj\Debug\netcoreapp2.1\laba2_5.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\obj\Debug\netcoreapp2.1\laba2_5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\obj\Debug\netcoreapp2.1\laba2_5.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\obj\Debug\netcoreapp2.1\laba2_5.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\obj\Debug\netcoreapp2.1\laba2_5.dll
+C:\Users\ADMIN\Documents\sergey\KPO\laba2_5\obj\Debug\netcoreapp2.1\laba2_5.pdb
